@@ -1,0 +1,2 @@
+[26-Mar-2025 21:11:41 Asia/Jakarta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/nurulbay/public_html/admin/logout.php on line 20
+[26-Mar-2025 23:26:49 Asia/Jakarta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/nurulbay/public_html/admin/logout.php on line 20
